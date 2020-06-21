@@ -1,2 +1,2 @@
 **/*.ipynb_checkpoints/
-data/imdb-reviews-pt-br.csv
+**/*.csv

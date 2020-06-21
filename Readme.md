@@ -1,5 +1,4 @@
 # Criar um classificador de sentimento aplicando técnicas de PLN
------
 
 Utilizando o dataset de revisões de filmes em português [1], criar um classificador de sentimentos que consiga um score na métrica F1 Score superior a 70%
 
